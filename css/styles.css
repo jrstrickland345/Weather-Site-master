@@ -2,9 +2,12 @@
 .wrapper {
     width: 50%;
     margin: 0 auto;
+    background: rgb(220, 150, 0);
 }
 
 
 #weather {
   margin: 0px auto;
 }
+
+
